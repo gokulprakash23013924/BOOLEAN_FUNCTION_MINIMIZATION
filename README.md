@@ -62,7 +62,8 @@ endmodule
 ![image](https://github.com/gokulprakash23013924/BOOLEAN_FUNCTION_MINIMIZATION/assets/150231472/d939895c-2278-4e4a-bc42-b4539bb8d7c3)
 
 **Output:**
-![Screenshot 2024-03-23 102223](https://github.com/gokulprakash23013924/BOOLEAN_FUNCTION_MINIMIZATION/assets/150231472/931fa172-08a0-4514-a4da-e39a2dfc376d)
+![image](https://github.com/gokulprakash23013924/BOOLEAN_FUNCTION_MINIMIZATION/assets/150231472/7da70f9a-3e38-4773-9c25-b6cbb1c07f63)
+
 
 **RTL**
 
